@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "collegePic": "https://i.ibb.co/T4qvrBt/c1.jpg",
+      "collegeName": "Harvard University",
+      "admissionDates": "August 1 - August 15",
+      "events": "Orientation Week, Career Fair",
+      "researchHistory": "Founded in 1636",
+      "sports": "Basketball, Soccer, Tennis",
+      "admissionProcess": "Submit online application and SAT scores",
+      "eventsDetails": "Orientation Week: Welcome new students and provide essential information about campus life. Career Fair: Connect students with potential employers.",
+      "researchWorks": "Harvard has produced groundbreaking research in various fields, including science, medicine, and social sciences."
+    },
+    {
+      "id": 2,
+      "collegePic": "https://i.ibb.co/pf9zfy0/c2.jpg",
+      "collegeName": "Stanford University",
+      "admissionDates": "September 1 - September 30",
+      "events": "New Student Convocation, Homecoming",
+      "researchHistory": "Founded in 1885",
+      "sports": "Football, Swimming, Track and Field",
+      "admissionProcess": "Submit Common Application and ACT/SAT scores",
+      "eventsDetails": "New Student Convocation: Officially welcome new students to the Stanford community. Homecoming: Celebrate the Stanford spirit and bring together alumni and current students.",
+      "researchWorks": "Stanford is renowned for its cutting-edge research in technology, engineering, and computer science."
+    },
+    {
+      "id": 3,
+      "collegePic": "https://i.ibb.co/5LqbhNk/c3.jpg",
+      "collegeName": "Massachusetts Institute of Technology (MIT)",
+      "admissionDates": "October 1 - October 31",
+      "events": "MIT Family Weekend, SpringFest",
+      "researchHistory": "Founded in 1861",
+      "sports": "Cross Country, Fencing, Volleyball",
+      "admissionProcess": "Submit online application and SAT/ACT scores",
+      "eventsDetails": "MIT Family Weekend: Families visit the campus and participate in various activities. SpringFest: A weekend of fun and entertainment for students.",
+      "researchWorks": "MIT is renowned for its contributions to scientific and technological research, including artificial intelligence and robotics."
+    },
+    {
+      "id": 4,
+      "collegePic": "https://i.ibb.co/YDp439X/c4.jpg",
+      "collegeName": "Yale University",
+      "admissionDates": "November 1 - November 30",
+      "events": "Bulldog Days, Spring Fling",
+      "researchHistory": "Founded in 1701",
+      "sports": "Squash, Lacrosse, Soccer",
+      "admissionProcess": "Submit Common Application and SAT/ACT scores",
+      "eventsDetails": "Bulldog Days: Admitted students visit campus to experience life at Yale. Spring Fling: A week of concerts, performances, and fun activities.",
+      "researchWorks": "Yale has a rich history of research excellence in various disciplines, including humanities, arts, and social sciences."
+    },
+    {
+      "id": 5,
+      "collegePic": "https://i.ibb.co/MpGCn4X/c5.jpg",
+      "collegeName": "Princeton University",
+      "admissionDates": "December 1 - December 15",
+      "events": "Princeton Preview, Reunions",
+      "researchHistory": "Founded in 1746",
+      "sports": "Rowing, Ice Hockey, Squash",
+      "admissionProcess": "Submit online application and SAT/ACT scores",
+      "eventsDetails": "Princeton Preview: Admitted students explore the campus and attend sample classes. Reunions: Alumni return to campus for a weekend of festivities.",
+      "researchWorks": "Princeton has a long history of research achievements, particularly in the fields of physics, mathematics, and economics."
+    },
+    {
+      "id": 6,
+      "collegePic": "https://i.ibb.co/743tFFv/c7.jpg",
+      "collegeName": "California Institute of Technology (Caltech)",
+      "admissionDates": "January 1 - January 31",
+      "events": "Prefrosh Weekend, Ditch Day",
+      "researchHistory": "Founded in 1891",
+      "sports": "Water Polo, Soccer, Cross Country",
+      "admissionProcess": "Submit Common Application and SAT/ACT scores",
+      "eventsDetails": "Prefrosh Weekend: Admitted students get a glimpse of life at Caltech. Ditch Day: Seniors plan surprises and challenges for the underclassmen.",
+      "researchWorks": "Caltech is renowned for its contributions to scientific research, particularly in areas such as astronomy and space exploration."
+    },
+    {
+      "id": 7,
+      "collegePic": "https://i.ibb.co/rxjy8qK/c6.jpg",
+      "collegeName": "University of Oxford",
+      "admissionDates": "February 1 - February 28",
+      "events": "Matriculation, May Morning",
+      "researchHistory": "Founded in 1096",
+      "sports": "Rowing, Cricket, Rugby",
+      "admissionProcess": "Submit UCAS application and achieve A-level requirements",
+      "eventsDetails": "Matriculation: Officially welcome new students to the University. May Morning: Celebrate the beginning of May with music and singing from Magdalen Tower.",
+      "researchWorks": "Oxford has a long history of academic excellence and is known for its contributions to various fields of study."
+    },
+    {
+      "id": 8,
+      "collegePic": "https://i.ibb.co/L1gky4t/c8.jpg",
+      "collegeName": "Cambridge University",
+      "admissionDates": "March 1 - March 31",
+      "events": "Freshers' Week, May Bumps",
+      "researchHistory": "Founded in 1209",
+      "sports": "Football, Tennis, Swimming",
+      "admissionProcess": "Submit UCAS application and achieve A-level requirements",
+      "eventsDetails": "Freshers' Week: Welcome new students and provide them with information about the University. May Bumps: Rowing races on the River Cam.",
+      "researchWorks": "Cambridge is known for its groundbreaking research in science, medicine, and technology."
+    },
+    {
+      "id": 9,
+      "collegePic": "https://i.ibb.co/hXStk1h/c9.jpg",
+      "collegeName": "University of Chicago",
+      "admissionDates": "April 1 - April 30",
+      "events": "Convocation, Scav Hunt",
+      "researchHistory": "Founded in 1890",
+      "sports": "Baseball, Basketball, Soccer",
+      "admissionProcess": "Submit Common Application and SAT/ACT scores",
+      "eventsDetails": "Convocation: Officially welcome new students to the University of Chicago. Scav Hunt: An annual tradition where students participate in a massive scavenger hunt.",
+      "researchWorks": "The University of Chicago is known for its influential research in social sciences, economics, and law."
+    },
+    {
+      "id": 10,
+      "collegePic": "https://i.ibb.co/42JRpzM/c10.jpg",
+      "collegeName": "ETH Zurich",
+      "admissionDates": "May 1 - May 31",
+      "events": "ETH Week, Polyball",
+      "researchHistory": "Founded in 1855",
+      "sports": "Volleyball, Basketball, Swimming",
+      "admissionProcess": "Submit online application and meet admission requirements",
+      "eventsDetails": "ETH Week: A week-long interdisciplinary project for students. Polyball: An annual ball that combines elegance with a festive atmosphere.",
+      "researchWorks": "ETH Zurich is renowned for its scientific research and innovation in engineering, technology, and natural sciences."
+    }
+  ]
+  

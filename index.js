@@ -3,6 +3,7 @@ const app = express();
 const cors = require('cors');
 require('dotenv').config()
 const port = process.env.PORT || 5000;
+const college = require('./college.json')
 
 
 // middlware
@@ -38,6 +39,17 @@ async function run() {
         res.send(result)
     })
 
+    app.get('/college', (req, res) => {
+      res.send(college)
+    })
+
+    app.get('/college/:id', (req, res) => {
+      const id = req.params.id;
+      console.log(id);
+      const selectedCollege = college.find(c => c.id == id)
+      res.send(selectedCollege)
+    })
+
 
 
     // Send a ping to confirm a successful connection
@@ -60,5 +72,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`colege is running on port ${port}`);
+    console.log(`college is running on port ${port}`);
 })
